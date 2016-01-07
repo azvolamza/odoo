@@ -50,6 +50,7 @@ There are two main ways to define and generate this DOM root:
     the template will be set as the DOM root of the widget.
 
 .. attribute:: openerp.Widget.tagName
+ss
 
     Used if the widget has no template defined. Defaults to ``div``,
     will be used as the tag name to create the DOM element to set as
